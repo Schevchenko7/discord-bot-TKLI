@@ -1,0 +1,16 @@
+{
+  "name": "discord-role-event-bot",
+  "version": "1.0.0",
+  "description": "Discord bot dengan fitur ambil role dan ping event",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "node-schedule": "^2.1.1"
+  }
+}

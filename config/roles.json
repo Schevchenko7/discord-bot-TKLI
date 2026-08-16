@@ -1,0 +1,26 @@
+[
+  {
+    "label": "Roblox Player",
+    "description": "Yang ingin main roblox bareng",
+    "emoji": "🎮",
+    "roleName": "Rosblox"
+  },
+  {
+    "label": "Mole",
+    "description": "Yang Ingin mabar push mole bareng",
+    "emoji": "🦋",
+    "roleName": "Mole"
+  },
+  {
+    "label": "Movie",
+    "description": "Yang Ingin nobar film bareng",
+    "emoji": "🍿",
+    "roleName": "Movie"
+  },
+  {
+    "label": "Event Notify",
+    "description": "Dapat notifikasi setiap ada event",
+    "emoji": "🔔",
+    "roleName": "Event Notify"
+  }
+]
